@@ -13,6 +13,7 @@
 - https://github.com/google/oss-fuzz
 - https://www.wireshark.org/security/wnpa-sec-2020-07.html
 - https://github.com/LordNoteworthy/al-khaser
+- https://nmap.org/art_of_portscanning-fr.html
 
 ### RPI
 
