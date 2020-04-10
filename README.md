@@ -15,6 +15,7 @@
 - https://github.com/LordNoteworthy/al-khaser
 - https://nmap.org/art_of_portscanning-fr.html
 - https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721
+- https://www.youtube.com/watch?v=dOa-NxPPedg
 
 ### RPI
 
@@ -33,6 +34,8 @@
 - https://ianrenton.com/hardware/raspberry-tank/
 - https://sites.google.com/site/cartwrightraspberrypiprojects/home/home-automation-categories/networking-and-wi-fi/network-monitor?authuser=0
 - https://ginolhac.github.io/posts/diy-raspberry-monitored-via-telegram/
+- https://pimylifeup.com/category/projects/network/
+- https://korben.info/idees-raspberry-pi.html
 
 ### Anime
 
@@ -52,6 +55,9 @@
 - https://www.futura-sciences.com/sante/biologie/
 - https://www.futura-sciences.com/sante/questions-reponses/biologie-probiotiques-prebiotiques-difference-12924/
 - https://www.futura-sciences.com/sante/biologie/questions-reponses/
+- https://www.youtube.com/channel/UC_RPJiZLM440RMpVCnx0tnQ
+- https://www.youtube.com/watch?v=Kx7x3XCJWwE
+- https://www.youtube.com/channel/UCl9XTftXGI7_5MyqXsZN5aw
 
 ### Cuisine
 
