@@ -16,6 +16,7 @@
 - https://nmap.org/art_of_portscanning-fr.html
 - https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721
 - https://www.youtube.com/watch?v=dOa-NxPPedg
+- https://fr.wikipedia.org/wiki/GNU_Privacy_Guard
 
 ### RPI
 
