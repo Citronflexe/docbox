@@ -14,6 +14,7 @@
 - https://www.wireshark.org/security/wnpa-sec-2020-07.html
 - https://github.com/LordNoteworthy/al-khaser
 - https://nmap.org/art_of_portscanning-fr.html
+- https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721
 
 ### RPI
 
@@ -46,7 +47,21 @@
 ### Biologie
 
 - https://himikotsukihime.postach.io/post/une-histoire-de-symbiose
+- https://jeretiens.net/difference-entre-eucaryote-et-procaryote/
+- https://www.cours-pharmacie.com/biologie-cellulaire/cellules-procaryotes-et-cellules-eucaryotes.html
+- https://www.futura-sciences.com/sante/biologie/
+- https://www.futura-sciences.com/sante/questions-reponses/biologie-probiotiques-prebiotiques-difference-12924/
+- https://www.futura-sciences.com/sante/biologie/questions-reponses/
 
 ### Cuisine
 
 - https://senteuretsaveur.wordpress.com/2016/04/01/brioche-tressee-moelleuse-a-la-mie-filante/
+
+### Media
+
+- http://izap4u.com/zap/zap-245-full-version/
+- https://lwn.net/Articles/777595/
+
+### Music
+
+- https://drive.google.com/drive/folders/0B4I2EnSb62v0cmFMS0xpNldWS28 Bloody Monday
