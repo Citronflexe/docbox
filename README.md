@@ -12,6 +12,7 @@
 - https://fr.wikipedia.org/wiki/Riot_(logiciel)
 - https://github.com/google/oss-fuzz
 - https://www.wireshark.org/security/wnpa-sec-2020-07.html
+- https://github.com/LordNoteworthy/al-khaser
 
 ### RPI
 
@@ -41,6 +42,13 @@
 - Detective Conan
 - Code Lyoko
 
+### Biologie
+
+- https://himikotsukihime.postach.io/post/une-histoire-de-symbiose
+
+### Cuisine
+
+- https://senteuretsaveur.wordpress.com/2016/04/01/brioche-tressee-moelleuse-a-la-mie-filante/
 
 ## Welcome to GitHub Pages
 
